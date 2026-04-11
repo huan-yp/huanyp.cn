@@ -1,0 +1,103 @@
+# NexT 主题配置覆盖
+# 此文件覆盖 themes/next/_config.yml 中的默认值
+# 参考: https://theme-next.js.org/docs/getting-started/configuration
+
+# ---------------------------------------------------------------
+# Scheme
+# ---------------------------------------------------------------
+scheme: Gemini
+darkmode: true
+
+# Light-Dark Mode Toggle
+lightdark:
+  enable: true
+  check_supports: true
+
+# ---------------------------------------------------------------
+# Favicon
+# ---------------------------------------------------------------
+favicon:
+  small: /images/favicon-16x16.png
+  medium: /images/favicon-32x32.png
+  apple_touch_icon: /images/apple-touch-icon.png
+  android_manifest: false
+
+# ---------------------------------------------------------------
+# Menu
+# ---------------------------------------------------------------
+menu:
+  home: / || fa fa-home
+  about: /about/ || fa fa-user
+  tags: /tags/ || fa fa-tags
+  categories: /categories/ || fa fa-th
+  archives: /archives/ || fa fa-archive
+  友情链接: /links/ || fa fa-link
+
+menu_settings:
+  icons: true
+  badges: false
+
+# ---------------------------------------------------------------
+# Sidebar
+# ---------------------------------------------------------------
+sidebar:
+  position: left
+  display: post
+
+avatar:
+  url: https://raw.githubusercontent.com/huan-yp/image_space/master/img/202604111835867.jpg
+  rounded: true
+  rotated: false
+
+social:
+  GitHub: https://github.com/huan-yp || fab fa-github
+
+# ---------------------------------------------------------------
+# Footer
+# ---------------------------------------------------------------
+footer:
+  since: 2021
+  icon:
+    name: fa fa-heart
+    animated: true
+    color: "#ff0000"
+
+# Posts / Categories / Tags in sidebar
+site_state: true
+
+# ---------------------------------------------------------------
+# Custom Files (注入自定义样式)
+# ---------------------------------------------------------------
+custom_file_path:
+  style: source/_data/styles.styl
+
+# ---------------------------------------------------------------
+# Code Block
+# ---------------------------------------------------------------
+codeblock:
+  copy_button:
+    enable: true
+    style: flat
+
+back2top:
+  enable: true
+  sidebar: false
+  scrollpercent: true
+
+# ---------------------------------------------------------------
+# Math (MathJax)
+# ---------------------------------------------------------------
+math:
+  every_page: false
+  mathjax:
+    enable: true
+    tags: all
+
+# ---------------------------------------------------------------
+# Local Search
+# ---------------------------------------------------------------
+local_search:
+  enable: true
+  top_n_per_article: 2
+  unescape: false
+  preload: false
