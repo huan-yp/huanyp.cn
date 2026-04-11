@@ -1,0 +1,29 @@
+<script>
+(function() {
+  var toggle = document.createElement('div');
+  toggle.id = 'darkmode-toggle';
+  toggle.innerHTML = '🌙';
+  toggle.title = '切换深色/浅色模式';
+  document.body.appendChild(toggle);
+
+  var saved = localStorage.getItem('darkmode');
+  if (saved === 'light') {
+    document.documentElement.setAttribute('data-color-scheme', 'light');
+    toggle.innerHTML = '☀️';
+  } else if (saved === 'dark') {
+    document.documentElement.setAttribute('data-color-scheme', 'dark');
+    toggle.innerHTML = '🌙';
+  }
+
+  toggle.addEventListener('click', function() {
+    var current = document.documentElement.getAttribute('data-color-scheme');
+    if (!current) {
+      current = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    }
+    var next = current === 'dark' ? 'light' : 'dark';
+    document.documentElement.setAttribute('data-color-scheme', next);
+    localStorage.setItem('darkmode', next);
+    toggle.innerHTML = next === 'dark' ? '🌙' : '☀️';
+  });
+})();
+</script>

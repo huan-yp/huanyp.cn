@@ -70,6 +70,7 @@ site_state: true
 # ---------------------------------------------------------------
 custom_file_path:
   style: source/_data/styles.styl
+  bodyEnd: source/_data/body-end.njk
 
 # ---------------------------------------------------------------
 # Code Block
