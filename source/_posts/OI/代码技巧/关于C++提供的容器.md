@@ -1,13 +1,14 @@
 ---
 title: C++ 容器
 mathjax: true
-date: 2022-08-30 09:19:43
 tags:
-- C++
-- STL
-- 代码技巧
+  - C++
+  - STL
+  - 代码技巧
 categories:
-- 算法竞赛
+  - 算法竞赛
+abbrlink: c3412d23
+date: 2022-08-30 09:19:43
 ---
 
 ## 标准库

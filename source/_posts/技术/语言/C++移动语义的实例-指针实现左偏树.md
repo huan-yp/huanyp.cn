@@ -1,12 +1,13 @@
 ---
 title: 左偏树的指针实现——C++移动语义的实例
 mathjax: true
-date: 2025-03-31 16:33:05
 tags:
-- C++
-- 面向对象
+  - C++
+  - 面向对象
 categories:
-- 技术
+  - 技术
+abbrlink: 4c2b4f7f
+date: 2025-03-31 16:33:05
 ---
 
 ### 简介

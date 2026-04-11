@@ -1,12 +1,13 @@
 ---
 title: Python 一些强调的东西
 mathjax: true
-date: 2022-07-12 16:28:24
 tags:
-- Python
-- 网络
+  - Python
+  - 网络
 categories:
-- 技术
+  - 技术
+abbrlink: 3ca3ea07
+date: 2022-07-12 16:28:24
 ---
 
 ## pip 和包

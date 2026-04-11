@@ -1,10 +1,11 @@
 ---
 title: 折腾 vmware
-date: 2025-03-01 16:30:00
-tags: 
-- 虚拟化
+tags:
+  - 虚拟化
 categories:
-- 技术
+  - 技术
+abbrlink: cfefeebb
+date: 2025-03-01 16:30:00
 ---
 
 折腾 vmware

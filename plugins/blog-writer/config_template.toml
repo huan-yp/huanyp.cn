@@ -1,0 +1,20 @@
+[blog_writer]
+blog_repo_path = "/path/to/huanyp.cn"
+allowed_users = []
+
+[blog_writer.llm]
+base_url = "https://api.openai.com/v1"
+api_key = ""
+model = "gpt-4o"
+
+[blog_writer.image_host]
+github_token = ""
+github_user = "huan-yp"
+github_repo = "image_space"
+github_branch = "master"
+upload_dir = "img"
+
+[blog_writer.preview]
+hexo_port = 4000
+preview_dir = ".preview"
+node_path = "node"

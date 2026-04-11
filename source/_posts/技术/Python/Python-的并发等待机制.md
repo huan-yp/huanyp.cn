@@ -1,12 +1,13 @@
 ---
 title: Python 线程池的陷阱：如何让 concurrent.futures 优雅地响应 Ctrl+C？
-date: 2025-12-15 10:43:11
 tags:
-- 并发编程
-- Python
+  - 并发编程
+  - Python
 categories:
-- 技术
+  - 技术
 description: 介绍 Python 并发编程的几种等待机制并提供一些便捷封装
+abbrlink: 2cdd3706
+date: 2025-12-15 10:43:11
 ---
 
 在 Python 并发编程中，`concurrent.futures.ThreadPoolExecutor` 是一个非常强大且易用的工具。然而，许多开发者在使用它时会遇到一个令人沮丧的痛点：

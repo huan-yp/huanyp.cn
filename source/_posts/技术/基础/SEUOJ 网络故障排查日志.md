@@ -1,13 +1,14 @@
 ---
 title: SEUOJ 网络故障排查日志
 mathjax: true
-date: 2025-05-17 09:40:24
 tags:
-- 网络
-- 日志
+  - 网络
+  - 日志
 categories:
-- 技术
+  - 技术
 description: 本文记录了调试某个网络问题时遇到的一些问题和解决步骤，能够为后续的 troubleshooting 提供一些教训。
+abbrlink: c02d85ac
+date: 2025-05-17 09:40:24
 ---
 
 ## SEUOJ 网络问题调试日志

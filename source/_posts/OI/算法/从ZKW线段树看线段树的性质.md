@@ -1,11 +1,12 @@
 ---
 title: 从ZKW线段树看线段树的性质
 mathjax: true
-date: 2022-08-04 20:40:11
 tags:
-- 线段树
+  - 线段树
 categories:
-- 算法竞赛
+  - 算法竞赛
+abbrlink: b187e44
+date: 2022-08-04 20:40:11
 ---
 
 ## 从ZKW线段树看线段树的性质

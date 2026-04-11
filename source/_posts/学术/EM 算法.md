@@ -1,12 +1,13 @@
 ---
 title: EM 算法
-date: 2025-02-24 14:00:00
 tags:
-- 概率期望
-- 算法
+  - 概率期望
+  - 算法
 categories:
-- 学术
+  - 学术
 mathjax: true
+abbrlink: 90a5934
+date: 2025-02-24 14:00:00
 ---
 
 ## 先验概率 VS 后验概率

@@ -1,13 +1,14 @@
 ---
 title: NcatBot 一个 SDK 的前世今生
-date: 2025-02-12 16:24:19
 tags:
-- Python
-- NcatBot
-- 开源
+  - Python
+  - NcatBot
+  - 开源
 categories:
-- 技术
+  - 技术
 description: NcatBot 是一个用于 QQ-Bot 开发的 Python SDK.
+abbrlink: 45550d54
+date: 2025-02-12 16:24:19
 ---
 
 [NcatBot](https://github.com/liyihao1110/ncatbot) 是一个用于 QQ-Bot 开发的 Python SDK.

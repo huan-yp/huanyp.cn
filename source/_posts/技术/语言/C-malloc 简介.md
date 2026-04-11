@@ -1,10 +1,11 @@
 ---
 title: C-malloc 简介
-date: 2025-03-11 16:30:00
 tags:
-- C++
+  - C++
 categories:
-- 技术 
+  - 技术
+abbrlink: f54a59c6
+date: 2025-03-11 16:30:00
 ---
 
 C 使用 malloc() 和 free() 来动态分配和释放内存，C++ 使用 new 和 delete 来动态分配和释放内存。

@@ -1,8 +1,9 @@
 ---
 title: 漫谈 B/S 架构
+description: 用 5 min 讲清前端三剑客、内容/应用服务器、CORS、完整 HTTP 回包链路，
+abbrlink: 2329821a
 date: 2025-12-12 14:13:40
 tags:
-description: 用 5 min 讲清前端三剑客、内容/应用服务器、CORS、完整 HTTP 回包链路，
 ---
 
 # 漫谈 B/S 架构

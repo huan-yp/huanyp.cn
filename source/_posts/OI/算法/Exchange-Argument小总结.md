@@ -1,11 +1,12 @@
 ---
 title: Exchange-Argument小总结
 mathjax: true
-date: 2022-08-02 23:04:58
 tags:
-- 贪心
+  - 贪心
 categories:
-- 算法竞赛
+  - 算法竞赛
+abbrlink: 1e76189d
+date: 2022-08-02 23:04:58
 ---
 
 ## Exchange-Argument

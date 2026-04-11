@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.preview/
+.pytest_cache/
+source/
+config.toml

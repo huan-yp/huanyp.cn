@@ -1,13 +1,13 @@
 ---
 title: GeogeBra计算器简易使用教程
 mathjax: true
-date: 2022-08-17 11:56:36
 tags:
-- 科普
-- 数学
+  - 科普
+  - 数学
 categories:
-- 技术
-
+  - 技术
+abbrlink: acb6da4b
+date: 2022-08-17 11:56:36
 ---
 
 ## Geogebra 计算器简易教程

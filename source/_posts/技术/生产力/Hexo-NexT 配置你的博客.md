@@ -1,9 +1,10 @@
 ---
 title: Hexo-NexT 博客部署
 mathjax: true
-date: 2022-07-12 16:22:10
 categories:
-- 技术
+  - 技术
+abbrlink: c85cebac
+date: 2022-07-12 16:22:10
 ---
 
 [参考](https://zhuanlan.zhihu.com/p/618864711)

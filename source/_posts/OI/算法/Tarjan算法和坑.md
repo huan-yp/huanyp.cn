@@ -1,12 +1,13 @@
 ---
 title: Tarjan算法和坑
 mathjax: true
-date: 2022-07-28 18:18:13
 tags:
-- tarjan
-- 图论
+  - tarjan
+  - 图论
 categories:
-- 算法竞赛
+  - 算法竞赛
+abbrlink: 2234944b
+date: 2022-07-28 18:18:13
 ---
 
 ## Tarjan算法和坑

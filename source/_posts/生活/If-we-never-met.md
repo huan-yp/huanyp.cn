@@ -1,11 +1,12 @@
 ---
 title: If we never met
 mathjax: true
-date: 2022-11-05 21:36:36
 tags:
-- 唉
+  - 唉
 categories:
-- 生活
+  - 生活
+abbrlink: 65d1507a
+date: 2022-11-05 21:36:36
 ---
 
 ## If we never met

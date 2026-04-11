@@ -1,11 +1,12 @@
 ---
 title: Docker 实践
-date: 2025-02-22 10:58:19
 tags:
-- Docker
+  - Docker
 categories:
-- 技术
-description: 本文介绍了 Docker 的基本操作方法, 强调了一些易错点.
+  - 技术
+description: '本文介绍了 Docker 的基本操作方法, 强调了一些易错点.'
+abbrlink: 9cf4e9d7
+date: 2025-02-22 10:58:19
 ---
 
 ## 查看镜像和容器

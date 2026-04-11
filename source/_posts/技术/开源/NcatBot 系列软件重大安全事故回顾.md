@@ -1,9 +1,10 @@
 ---
 title: NcatBot系列软件重大安全事故回顾
-date: 2025-09-06 17:23:44
 tags:
-- 网络安全
-- NcatBot
+  - 网络安全
+  - NcatBot
+abbrlink: a8c1b04
+date: 2025-09-06 17:23:44
 ---
 
 **网络安全绝非儿戏！！！**

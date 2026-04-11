@@ -2,6 +2,7 @@
 title: Hello World
 date: 2022/7/12
 top: true
+abbrlink: 4a17b156
 ---
 
 ~~在无数久的 🐦咕咕咕 后一个博客它建成了！~~

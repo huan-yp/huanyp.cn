@@ -1,13 +1,14 @@
 ---
 title: Kruskal 重构树和 LCA
 mathjax: true
-date: 2022-07-19 20:10:16
 tags:
-- 题解
-- CF
-- Kruskal
+  - 题解
+  - CF
+  - Kruskal
 categories:
-- 算法竞赛
+  - 算法竞赛
+abbrlink: 3d3d44b6
+date: 2022-07-19 20:10:16
 ---
 
 ## CF1706 小总结
