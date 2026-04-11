@@ -53,9 +53,34 @@ body
   --link-hover-color: #222
   --brand-color: #fff
   --brand-hover-color: #fff
+  --highlight-background: #F3F3F3
+  --highlight-foreground: #444
+  --highlight-gutter-background: #e0e0e0
+  --highlight-gutter-foreground: #666
 
   .header-inner
     background: rgba(255, 255, 255, 0.8)
+
+  // 强制代码高亮 token 为亮色主题
+  .hljs-keyword, .hljs-selector-tag, .hljs-subst
+    color: #333
+    font-weight: bold
+  .hljs-string, .hljs-doctag
+    color: #d14
+  .hljs-comment
+    color: #998
+    font-style: italic
+  .hljs-number, .hljs-literal
+    color: #008080
+  .hljs-title, .hljs-section, .hljs-selector-id
+    color: #900
+    font-weight: bold
+  .hljs-built_in, .hljs-type
+    color: #0086b3
+  .hljs-attr, .hljs-attribute
+    color: #008080
+  .hljs-meta
+    color: #999
 
 // 深色模式强制覆盖
 [data-color-scheme="dark"]
@@ -67,6 +92,31 @@ body
   --link-hover-color: #eee
   --brand-color: #222
   --brand-hover-color: #222
+  --highlight-background: #1c1b1b
+  --highlight-foreground: #fff
+  --highlight-gutter-background: #2d2c2c
+  --highlight-gutter-foreground: #aaa
 
   .header-inner
     background: rgba(34, 34, 34, 0.8)
+
+  // 强制代码高亮 token 为暗色主题
+  .hljs-keyword, .hljs-selector-tag, .hljs-subst
+    color: #f0c674
+    font-weight: bold
+  .hljs-string, .hljs-doctag
+    color: #b5bd68
+  .hljs-comment
+    color: #969896
+    font-style: italic
+  .hljs-number, .hljs-literal
+    color: #de935f
+  .hljs-title, .hljs-section, .hljs-selector-id
+    color: #81a2be
+    font-weight: bold
+  .hljs-built_in, .hljs-type
+    color: #81a2be
+  .hljs-attr, .hljs-attribute
+    color: #b294bb
+  .hljs-meta
+    color: #969896
