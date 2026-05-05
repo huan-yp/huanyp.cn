@@ -45,7 +45,7 @@ sidebar:
   display: post
 
 avatar:
-  url: https://raw.githubusercontent.com/huan-yp/image_space/master/img/202604111835867.jpg
+  url: /images/avatar.png
   rounded: true
   rotated: false
 
