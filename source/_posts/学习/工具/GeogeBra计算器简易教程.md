@@ -5,7 +5,7 @@ tags:
   - 科普
   - 数学
 categories:
-  - 技术
+  - 学习
 abbrlink: acb6da4b
 date: 2022-08-17 11:56:36
 ---

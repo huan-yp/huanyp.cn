@@ -4,7 +4,7 @@ tags:
   - 人工智能
   - 资料
 categories:
-  - 学术
+  - 学习
 abbrlink: 3fbd031
 date: 2022-07-12 15:26:03
 ---
