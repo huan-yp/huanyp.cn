@@ -25,7 +25,7 @@ title: Hello World
 
 ## 联系我
 
-- QQ：3051561876
+- huan_yp@qq.com
 
 ## 关于我的历史
 
