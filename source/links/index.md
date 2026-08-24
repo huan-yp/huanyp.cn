@@ -115,6 +115,15 @@ date: 2025-02-16 00:34:27
                   <div class="info">越过山川</div>
                </div>
             </div>
+            <div class="card">
+               <img class="ava" src="https://blog.45dino.me/upload/shmilyty.png" />
+               <div class="card-header">
+                  <div>
+                     <a href="https://blog.45dino.me">45dino's blog</a>
+                  </div>
+                  <div class="info">失落的区</div>
+               </div>
+            </div>
          </div>
       </div>
    </div>
