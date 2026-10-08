@@ -89,7 +89,7 @@ back2top:
 # Math (MathJax)
 # ---------------------------------------------------------------
 math:
-  every_page: false
+  every_page: true
   mathjax:
     enable: true
     tags: all
